@@ -1,5 +1,5 @@
 # Имя: Аккар
-# Внешний вид: ![Аккар](https://www.worldanvil.com/uploads/images/472c8f67ffff063207fd79e59f533a4d.jpg)
+# Внешний вид: <br><img src=https://www.worldanvil.com/uploads/images/472c8f67ffff063207fd79e59f533a4d.jpg width="300" height="300"/>
 ## Раса: [Тэнгу](https://pf2e-ru-translation.readthedocs.io/ru/latest/ancestries_and_backgrounds/ancestries/tengu.html#ancestry-tengu)
 ## Класс: [Сорвиголова](https://pf2e-ru-translation.readthedocs.io/ru/latest/classes/swashbuckler.html#ch3-classes-swashbuckler)
 ## Предыстория: [Прислуга](https://pf2e-ru-translation.readthedocs.io/ru/latest/ancestries_and_backgrounds/backgrounds.html#bg-servant)
